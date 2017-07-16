@@ -3,7 +3,7 @@
  * a
  a b a
 a b c b a
- a b a
+ a b c
    a
  */
 
@@ -50,6 +50,7 @@ public class Assignment2 {
 				}
 				
 				System.out.print((char)charToPrint);
+				System.out.print(" ");
 				
 										
 			}
@@ -57,6 +58,7 @@ public class Assignment2 {
 			//Change of the column 
 			
 			System.out.println();
+			
 			
 			
 						
